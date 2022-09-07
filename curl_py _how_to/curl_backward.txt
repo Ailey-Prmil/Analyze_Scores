@@ -1,0 +1,10 @@
+import subprocess
+start = 2053319
+end = 2055908
+with open ("data_mid.txt","w") as file :
+	while (start<=end):
+		result = str (subprocess.check_output(f'curl -F "sobaodanh=0{start}" diemthi.hcm.edu.vn/Home/Show'))
+		file.write (f'sbd : 0{start}')
+		file.write (result)
+		file.write ("\n")
+		start+=1

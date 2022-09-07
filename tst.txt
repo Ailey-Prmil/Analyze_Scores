@@ -1,0 +1,163 @@
+SBD : 02000001  ĐẶNG THÙY AN Toán:7.40 Ngữ văn:7.25 Vật lí:7.75 Hóa học:7.25 Sinh học:5.50 KHTN: 6.83 Tiếng Anh:9.80 
+
+SBD : 02000002  LÊ HOÀNG LINH AN Toán:8.40 Ngữ văn:7.50 Vật lí:7.50 Hóa học:6.00 Sinh học:4.50 KHTN: 6 Tiếng Anh:9.40 
+
+SBD : 02000003  NGUYỄN DUY AN Toán:8.40 Ngữ văn:6.50 Vật lí:6.50 Hóa học:7.00 Sinh học:4.50 KHTN: 6 Tiếng Anh:4.20 
+
+SBD : 02000004  NGUYỄN HÀ QUỐC AN Toán:8.80 Ngữ văn:5.50 Vật lí:8.25 Hóa học:5.25 Sinh học:6.00 KHTN: 6.5 Tiếng Anh:8.80 
+
+SBD : 02000005  NGUYỄN HẢI TÂM AN Toán:7.20 Ngữ văn:7.25 Lịch sử:6.00 Địa lí:4.50 GDCD:7.50  KHXH: 6 Tiếng Anh:9.40 
+
+SBD : 02000006  NGUYỄN LÊ HỮU AN Toán:8.20 Ngữ văn:6.50 Vật lí:7.00 Hóa học:6.25 Sinh học:3.75 KHTN: 5.67 Tiếng Anh:8.60 
+
+SBD : 02000007  NGUYỄN NGỌC LIÊN AN Toán:7.20 Ngữ văn:7.25 Vật lí:7.00 Hóa học:4.00 Sinh học:3.00 KHTN: 4.67 Tiếng Anh:5.40 
+
+SBD : 02000008  PHẠM TRẦN BÌNH AN Toán:8.00 Ngữ văn:7.75 Vật lí:8.50 Hóa học:7.00 Sinh học:4.25 KHTN: 6.58 Tiếng Anh:7.40 
+
+SBD : 02000009  PHAN THÙY THÁI AN Toán:7.60 Ngữ văn:7.25 Lịch sử:8.25 Địa lí:7.50 GDCD:8.25  KHXH: 8 Tiếng Anh:7.80 
+
+SBD : 02000010  TÔ THÁI AN Toán:8.40 Ngữ văn:7.00 Vật lí:6.25 Hóa học:7.75 Sinh học:4.25 KHTN: 6.08 Tiếng Anh:7.20 
+
+SBD : 02000011  TRẦN THANH AN Toán:9.20 Ngữ văn:6.50 Lịch sử:5.25 Địa lí:7.00 GDCD:7.75  KHXH: 6.67 Tiếng Anh:8.20 
+
+SBD : 02000012  UÔNG SỸ AN Toán:9.00 Ngữ văn:5.50 Vật lí:7.75 Hóa học:7.75 Sinh học:4.50 KHTN: 6.67 Tiếng Anh:5.40 
+
+SBD : 02000013  VÕ HOÀNG THÚY AN Toán:6.40 Ngữ văn:6.00 Lịch sử:5.25 Địa lí:5.75 GDCD:8.50  KHXH: 6.5 Tiếng Anh:7.40 
+
+SBD : 02000014  VÕ HUỲNH NAM AN Toán:8.40 Ngữ văn:7.75 Vật lí:8.75 Hóa học:7.50 Sinh học:4.50 KHTN: 6.92 Tiếng Anh:7.80 
+
+SBD : 02000015  VŨ KHÁNH AN Toán:8.00 Ngữ văn:6.25 Lịch sử:8.50 Địa lí:7.00 GDCD:8.00  KHXH: 7.83 Tiếng Anh:9.00 
+
+SBD : 02000016  VŨ QUANG BÌNH AN Toán:7.40 Ngữ văn:6.50 Lịch sử:5.00 Địa lí:4.75 GDCD:7.50  KHXH: 5.75 Tiếng Anh:8.00 
+
+SBD : 02000017  CAM THỊ TRÚC ANH Toán:7.40 Ngữ văn:7.25 Lịch sử:7.75 Địa lí:8.25 GDCD:7.75  KHXH: 7.92 Tiếng Anh:8.40 
+
+SBD : 02000018  CAO NGUYỄN LAN ANH Toán:8.60 Ngữ văn:7.00 Vật lí:8.50 Hóa học:7.75 Sinh học:5.50 KHTN: 7.25 Tiếng Anh:9.40 
+
+SBD : 02000019  ĐINH NHẬT ANH Toán:7.80 Ngữ văn:6.25 Vật lí:6.50 Hóa học:3.25 Sinh học:3.75 KHTN: 4.5 Tiếng Anh:6.20 
+
+SBD : 02000020  ĐOÀN NGUYỄN BẢO ANH Toán:8.40 Ngữ văn:8.00 Lịch sử:6.25 Địa lí:6.50 GDCD:8.50  KHXH: 7.08 Tiếng Anh:7.80 
+
+SBD : 02000021  ĐOÀN THỊ LAN ANH Toán:8.60 Ngữ văn:7.75 Vật lí:8.50 Hóa học:7.25 Sinh học:5.25 KHTN: 7 Tiếng Anh:8.40 
+
+SBD : 02000022  ĐOÀN THỊ MỸ ANH Toán:7.60 Ngữ văn:6.75 Vật lí:6.75 Hóa học:7.25 Sinh học:6.00 KHTN: 6.67 Tiếng Anh:9.40 
+
+SBD : 02000023  HOÀNG LÊ NHẬT ANH Toán:8.00 Ngữ văn:6.75 Vật lí:8.00 Hóa học:8.50 Sinh học:4.50 KHTN: 7 Tiếng Anh:7.40 
+
+SBD : 02000024  HOÀNG PHÚC ANH Toán:7.40 Ngữ văn:4.50 Vật lí:7.25 Hóa học:7.25 Sinh học:4.25 KHTN: 6.25 Tiếng Anh:6.80 
+
+SBD : 02000025  KIEN MINH ANH Toán:8.20 Ngữ văn:8.25 Vật lí:6.50 Hóa học:6.50 Sinh học:3.25 KHTN: 5.42 Tiếng Anh:9.00 
+
+SBD : 02000026  LÊ MINH ANH Toán:7.40 Ngữ văn:7.00 Lịch sử:6.00 Địa lí:5.75 GDCD:7.00  KHXH: 6.25 Tiếng Anh:8.80 
+
+SBD : 02000027  LÊ NGUYỄN TRÂM ANH Toán:7.60 Ngữ văn:7.25 Vật lí:5.50 Hóa học:8.25 Sinh học:7.50 KHTN: 7.08 Tiếng Anh:9.00 
+
+SBD : 02000028  LÊ NHẬT ANH Toán:8.60 Ngữ văn:4.25 Vật lí:8.00 Hóa học:8.25 Sinh học:5.25 KHTN: 7.17 Tiếng Anh:8.60 
+
+SBD : 02000029  LÊ QUỲNH ANH Toán:7.00 Ngữ văn:7.25 Lịch sử:6.75 Địa lí:7.00 GDCD:8.00  KHXH: 7.25 Tiếng Anh:8.60 
+
+SBD : 02000030  LÊ THỊ TRÂM ANH Toán:7.80 Ngữ văn:7.50 Lịch sử:7.25 Địa lí:6.25 GDCD:7.50  KHXH: 7 Tiếng Anh:7.80 
+
+SBD : 02000031  LÊ TRẦN MINH ANH Toán:5.20 Ngữ văn:7.50 Vật lí:3.50 Hóa học:5.50 Sinh học:4.25 KHTN: 4.42 Tiếng Anh:8.80 
+
+SBD : 02000032  LÊ TUẤN ANH Toán:8.00 Ngữ văn:5.75 Vật lí:6.50 Hóa học:6.25 Sinh học:4.00 KHTN: 5.58 Tiếng Anh:4.40 
+
+SBD : 02000033  LÊ TUỆ ANH Toán:7.80 Ngữ văn:6.75 Lịch sử:8.00 Địa lí:8.00 GDCD:7.75  KHXH: 7.92 Tiếng Anh:9.40 
+
+SBD : 02000034  LƯU PHÚC ANH Toán:7.00 Ngữ văn:4.25 Lịch sử:8.50 Địa lí:7.75 GDCD:8.50  KHXH: 8.25 Tiếng Anh:9.00 
+
+SBD : 02000035  NGUYỄN CAO NGUYÊN ANH Toán:8.80 Ngữ văn:7.50 Vật lí:5.75 Hóa học:5.50 Sinh học:4.00 KHTN: 5.08 Tiếng Anh:8.40 
+
+SBD : 02000036  NGUYỄN HOÀNG LAN ANH Toán:6.20 Ngữ văn:7.25 Lịch sử:7.00 Địa lí:6.50 GDCD:7.50  KHXH: 7 Tiếng Anh:7.60 
+
+SBD : 02000037  NGUYỄN LÊ CHIÊU ANH Toán:7.20 Ngữ văn:6.00 Vật lí:5.75 Hóa học:6.75 Sinh học:4.50 KHTN: 5.67 Tiếng Anh:7.00 
+
+SBD : 02000038  NGUYỄN MINH ANH Toán:7.80 Ngữ văn:5.25 Vật lí:6.25 Hóa học:4.50 Sinh học:3.50 KHTN: 4.75 Tiếng Anh:6.80 
+
+SBD : 02000039  NGUYỄN THẢO ANH Toán:8.00 Ngữ văn:5.50 Lịch sử:7.25 Địa lí:7.50 GDCD:9.50  KHXH: 8.08 Tiếng Anh:8.20 
+
+SBD : 02000040  NGUYỄN THỊ MAI ANH Toán:8.40 Ngữ văn:7.00 Vật lí:8.25 Hóa học:6.50 Sinh học:4.25 KHTN: 6.33 Tiếng Anh:8.60 
+
+SBD : 02000041  NGUYỄN THỊ TÚ ANH Toán:7.40 Ngữ văn:7.00 Lịch sử:7.00 Địa lí:6.00 GDCD:9.00  KHXH: 7.33 Tiếng Anh:8.00 
+
+SBD : 02000042  NGUYỄN THIỆN VÂN ANH Toán:7.80 Ngữ văn:7.25 Vật lí:6.75 Hóa học:8.00 Sinh học:5.75 KHTN: 6.83 Tiếng Anh:9.20 
+
+SBD : 02000043  NGUYỄN TRUNG ANH Toán:8.20 Ngữ văn:5.75 Vật lí:7.75 Hóa học:7.75 Sinh học:3.50 KHTN: 6.33 Tiếng Anh:8.20 
+
+SBD : 02000044  NGUYỄN VIỆT ANH Toán:6.40 Ngữ văn:6.25 Vật lí:4.75 Hóa học:6.25 Sinh học:6.00 KHTN: 5.67 Tiếng Anh:9.20 
+
+SBD : 02000045  NGUYỄN VŨ PHƯƠNG ANH Toán:5.80 Ngữ văn:7.75 Vật lí:4.50 Hóa học:6.25 Sinh học:5.00 KHTN: 5.25 Tiếng Anh:5.00 
+
+SBD : 02000046  NGUYỄN XUÂN KHUÊ ANH Toán:8.80 Ngữ văn:6.50 Lịch sử:8.50 Địa lí:6.25 GDCD:8.75  KHXH: 7.83 Tiếng Anh:7.40 
+
+SBD : 02000047  PHẠM HOÀNG MINH ANH Toán:8.80 Ngữ văn:6.25 Vật lí:8.25 Hóa học:7.25 Sinh học:4.50 KHTN: 6.67 Tiếng Anh:8.20 
+
+SBD : 02000048  PHẠM HỒNG ANH Toán:8.40 Ngữ văn:7.50 Vật lí:7.25 Hóa học:8.00 Sinh học:6.00 KHTN: 7.08 Tiếng Anh:9.20 
+
+SBD : 02000049  PHAN DIỄM QUỲNH ANH Toán:7.20 Ngữ văn:7.75 Lịch sử:5.75 Địa lí:6.25 GDCD:8.50  KHXH: 6.83 Tiếng Anh:8.20 
+
+SBD : 02000050  QUÁCH TUẤN ANH Toán:7.60 Ngữ văn:6.25 Lịch sử:7.00 Địa lí:6.75 GDCD:7.00  KHXH: 6.92 Tiếng Anh:7.00 
+
+SBD : 02000051  TRẦN NGỌC MINH ANH Toán:8.40 Ngữ văn:6.00 Vật lí:7.00 Hóa học:8.00 Sinh học:4.25 KHTN: 6.42 Tiếng Anh:6.60 
+
+SBD : 02000052  TRẦN THỊ MINH ANH Toán:7.40 Ngữ văn:7.00 Lịch sử:7.75 Địa lí:7.75 GDCD:8.25  KHXH: 7.92 Tiếng Anh:9.60 
+
+SBD : 02000053  TRỊNH TRÂM ANH Toán:7.20 Ngữ văn:6.50 Lịch sử:7.75 Địa lí:5.25 GDCD:9.25  KHXH: 7.42 Tiếng Anh:5.80 
+
+SBD : 02000054  VŨ MINH ANH Toán:7.20 Ngữ văn:7.25 Vật lí:6.00 Hóa học:4.25 Sinh học:4.00 KHTN: 4.75 Tiếng Anh:6.20 
+
+SBD : 02000055  VŨ PHẠM MINH ANH Toán:7.80 Ngữ văn:8.00 Lịch sử:7.25 Địa lí:5.00 GDCD:7.50  KHXH: 6.58 Tiếng Anh:9.00 
+
+SBD : 02000056  NGUYỄN KIM ÁNH Toán:7.20 Ngữ văn:5.75 Vật lí:4.50 Hóa học:7.50 Sinh học:5.25 KHTN: 5.75 Tiếng Anh:8.60 
+
+SBD : 02000057  VŨ NGỌC ÁNH Toán:7.80 Ngữ văn:7.00 Lịch sử:5.75 Địa lí:6.25 GDCD:8.75  KHXH: 6.92 Tiếng Anh:8.80 
+
+SBD : 02000058  ĐINH HOÀNG THIÊN ÂN Toán:7.40 Ngữ văn:5.75 Vật lí:4.50 Hóa học:6.75 Sinh học:3.75 KHTN: 5 Tiếng Anh:9.00 
+
+SBD : 02000059  NGUYỄN ĐỊNH ÂN Toán:8.40 Ngữ văn:6.50 Lịch sử:7.75 Địa lí:7.50 GDCD:8.00  KHXH: 7.75 Tiếng Anh:8.80 
+
+SBD : 02000060  NGUYỄN THIÊN ÂN Toán:8.20 Ngữ văn:7.00 Lịch sử:9.25 Địa lí:8.25 GDCD:8.75  KHXH: 8.75 Tiếng Anh:8.80 
+
+SBD : 02000061  TÀO HOÀI ÂN Toán:8.00 Ngữ văn:6.00 Lịch sử:7.75 Địa lí:7.50 GDCD:9.25  KHXH: 8.17 Tiếng Anh:7.20 
+
+SBD : 02000062  HỒ VIẾT BÁCH Toán:8.60 Ngữ văn:5.75 Vật lí:7.25 Hóa học:4.75 Sinh học:5.75 KHTN: 5.92 Tiếng Anh:8.00 
+
+SBD : 02000063  NGÔ QUANG BÁCH Toán:8.40 Ngữ văn:5.50 Vật lí:8.25 Hóa học:7.25 Sinh học:5.25 KHTN: 6.92 Tiếng Anh:8.00 
+
+SBD : 02000064  NGÔ GIA BẢO Toán:8.80 Ngữ văn:7.75 Lịch sử:9.00 Địa lí:7.75 GDCD:9.25  KHXH: 8.67 Tiếng Anh:9.20 
+
+SBD : 02000065  NGUYỄN GIA BẢO Toán:7.00 Ngữ văn:6.75 Lịch sử:7.75 Địa lí:6.50 GDCD:8.25  KHXH: 7.5 Tiếng Anh:7.20 
+
+SBD : 02000066  NGUYỄN PHÚC BẢO Toán:8.20 Ngữ văn:5.00 Vật lí:8.00 Hóa học:5.50 Sinh học:3.25 KHTN: 5.58 Tiếng Anh:7.60 
+
+SBD : 02000067  NGUYỄN THÁI BẢO Toán:8.00 Ngữ văn:6.00 Vật lí:7.50 Hóa học:6.00 Sinh học:3.25 KHTN: 5.58 Tiếng Anh:8.60 
+
+SBD : 02000068  NGUYỄN THÁI THIÊN BẢO Toán:8.80 Ngữ văn:6.00 Vật lí:7.75 Hóa học:6.75 Sinh học:5.25 KHTN: 6.58 Tiếng Anh:8.80 
+
+SBD : 02000069  VÕ NGỌC BẢO Toán:7.60 Ngữ văn:6.50 Vật lí:6.00 Hóa học:6.00 Sinh học:3.75 KHTN: 5.25 Tiếng Anh:8.40 
+
+SBD : 02000070  VŨ NGỌC GIA BẢO Toán:7.20 Ngữ văn:7.50 Vật lí:6.50 Hóa học:8.25 Sinh học:7.50 KHTN: 7.42 Tiếng Anh:7.60 
+
+SBD : 02000071  VŨ NGUYÊN BẢO Toán:8.20 Ngữ văn:5.75 Vật lí:3.00 Hóa học:7.25 Sinh học:7.25 KHTN: 5.83 Tiếng Anh:6.80 
+
+SBD : 02000072  NGUYỄN NGỌC THÁI BĂNG Toán:6.40 Ngữ văn:7.00 Vật lí:4.75 Hóa học:5.75 Sinh học:3.50 KHTN: 4.67 Tiếng Anh:8.20 
+
+SBD : 02000073  CAO THÁI BÌNH Toán:8.60 Ngữ văn:3.75 Vật lí:6.00 Hóa học:8.00 Sinh học:4.50 KHTN: 6.17 Tiếng Anh:6.80 
+
+SBD : 02000074  ĐINH THỊ THANH BÌNH Toán:7.20 Ngữ văn:6.75 Vật lí:7.25 Hóa học:5.00 Sinh học:4.75 KHTN: 5.67 Tiếng Anh:7.00 
+
+SBD : 02000075  NÔNG BỘI BỘI Toán:8.20 Ngữ văn:7.00 Vật lí:8.75 Hóa học:7.25 Sinh học:4.25 KHTN: 6.75 Tiếng Anh:8.60 
+
+SBD : 02000076  LÊ THỊ BẠCH CÁT Toán:7.20 Ngữ văn:7.25 Lịch sử:5.75 Địa lí:7.00 GDCD:7.75  KHXH: 6.83 Tiếng Anh:6.40 
+
+SBD : 02000077  CAO NGUYỄN MỘNG CẦM Toán:8.00 Ngữ văn:7.50 Vật lí:5.50 Hóa học:7.25 Sinh học:5.00 KHTN: 5.92 Tiếng Anh:7.00 
+
+SBD : 02000078  LÊ BẢO CHÂU Toán:7.40 Ngữ văn:4.50 Vật lí:4.50 Hóa học:7.25 Sinh học:6.25 KHTN: 6 Tiếng Anh:8.80 
+
+SBD : 02000079  TRẦN THỤY MINH CHÂU Toán:8.60 Ngữ văn:7.75 Vật lí:6.00 Hóa học:8.25 Sinh học:4.50 KHTN: 6.25 Tiếng Anh:8.40 
+
+SBD : 02000080  VŨ NGỌC BẢO CHÂU Toán:5.60 Ngữ văn:6.75 Vật lí:3.50 Hóa học:3.25 Sinh học:3.50 KHTN: 3.42 Tiếng Anh:4.80 
+
+SBD : 02000081  HOÀNG LINH CHI Toán:8.00 Ngữ văn:6.75 Vật lí:7.00 Hóa học:8.00 Sinh học:7.25 KHTN: 7.42 Tiếng Anh:7.80 
+
+SBD : 02000082  LÊ NGỌC PHƯƠNG CHI Toán:7.80 Ngữ văn:7.25 Vật lí:6.50 Hóa học:8.75 Sinh học:4.50 KHTN: 6.58 Tiếng Anh:9.40 
