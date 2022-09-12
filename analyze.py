@@ -100,38 +100,38 @@ y_label = "Times each subjects being the best score of a student"
 title = "Which subject did each student receive with the highest score ?"
 bar_chart (x_axis, y_axis,x_label,y_label,title)
 #######
-
-A0_scores=[]
-A1_scores = []
-t=0
-for student in score :
-    if (student[6]==1):
-        continue
-    else:
-        A0 = student[0]+student[2]+student[3]
-        A1 = student[0]+student[2]+student[5]
-        if(A1)<20:
+     
+def sub_group (score,group):  #group = A0,A1 --->Q2
+    group_score = []  
+    stu_mark = 0
+    for student in score :
+        if (student[6]==1):
             continue
-        else :
-            A0_scores.append(A0)
-            A1_scores.append(A1)
-
-x_axis=set(A1_scores)
-x_axis = sorted (list(x_axis))
-y_axis=[0 for i in range (len(x_axis))]
-print (len(x_axis))
-print (len(y_axis))
-A1_scores.sort() 
-print (len(A1_scores))
-for i in A1_scores:
-    if i == x_axis[t]:
-        y_axis[t] +=1
-    else:
-        t+=1
-        y_axis[t] +=1
-
-line_chart(x_axis, y_axis,"Scores","Number of Students")#A0
-
-        
-        
-
+        else:
+            A0 = student[0]+student[2]+student[3] #MATH + PHYSICS + CHEMISTRY
+            A1 = student[0]+student[2]+student[5] #MATH + PHYSICS + ENGLISH
+            if group == "A1":
+                group = A1
+            else: 
+                group = A0
+            if(group)<20:
+                continue
+            else :
+                group_score.append(group)
+                
+    x_axis=set(group_score)
+    x_axis = sorted (list(x_axis))
+    y_axis=[0 for i in range (len(x_axis))]
+    group_score.sort() 
+    for score in group_score:
+        if score == x_axis[stu_mark]:
+            y_axis[stu_mark] +=1
+        else:
+            stu_mark +=1
+            y_axis[stu_mark] +=1
+    return (x_axis,y_axis)
+####Q2###
+group = "A1"
+x_axis, y_axis = sub_group(score,group)
+line_chart(x_axis, y_axis,"Scores","Number of Students",f"Phổ điểm của {group}")
+######
