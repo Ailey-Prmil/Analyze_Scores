@@ -59,7 +59,7 @@ with open ("clean_data.txt","r",encoding="utf-8") as file : #file having utf-8 e
         students.append([SBD, Name, Math, Literature, Mon1, Mon2, Mon3, Language,label,KHTN_KHXH])
 
 # students = [[],[],[],[],[],[],...] each element contains [SBD,Name,Math,Liter,Mon1,Mon2,Mon3,Language,label,KHTN/KHXH]
-# scores = [[],[],[],[],[],[],...] each element contains [Math -> KHTN/KHXH] (len = 7)
+# score = [[],[],[],[],[],[],...] each element contains [Math -> KHTN/KHXH] (len = 7)
     """ Bang index cua x in score :
     Toan : 0
     Van : 1
@@ -74,7 +74,7 @@ for x in range (len(score)):# change str element in (score list elements) to flo
     score[x]= [float(i) for i in score[x]]
 def Q_1(score):
     sub = ["Math","Literature","Physics","Chemistry","Biology","Languages","History","Geography","GDCD"]
-    count= [0 for i in range(len(sub))]
+    count = [0 for i in range(len(sub))]
     for x in score :
         highest_score = max(x)
         index = [i for i in range(len(x)) if x[i]== highest_score]
@@ -103,13 +103,13 @@ bar_chart (x_axis, y_axis,x_label,y_label,title)
 
 A0_scores=[]
 A1_scores = []
-t =0
-for x in score :
-    if (x[6]==1):
+t=0
+for student in score :
+    if (student[6]==1):
         continue
     else:
-        A0 = x[0]+x[2]+x[3]
-        A1 = x[0]+x[2]+x[5]
+        A0 = student[0]+student[2]+student[3]
+        A1 = student[0]+student[2]+student[5]
         if(A1)<20:
             continue
         else :
@@ -121,7 +121,7 @@ x_axis = sorted (list(x_axis))
 y_axis=[0 for i in range (len(x_axis))]
 print (len(x_axis))
 print (len(y_axis))
-A1_scores.sort()
+A1_scores.sort() 
 print (len(A1_scores))
 for i in A1_scores:
     if i == x_axis[t]:
@@ -129,8 +129,7 @@ for i in A1_scores:
     else:
         t+=1
         y_axis[t] +=1
-print (y_axis)
-print (x_axis)
+
 line_chart(x_axis, y_axis,"Scores","Number of Students")#A0
 
         
