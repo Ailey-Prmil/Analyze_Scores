@@ -109,11 +109,13 @@ def sub_group (score,group):  #group = A0,A1 --->Q2
             continue
         else:
             A0 = student[0]+student[2]+student[3] #MATH + PHYSICS + CHEMISTRY
-            A1 = student[0]+student[2]+student[5] #MATH + PHYSICS + ENGLISH
+            A1 = student[0]+student[2]+student[5] #MATH + PHYSICS + LANGUAGE
+
             if group == "A1":
                 group = A1
             else: 
                 group = A0
+        
             if(group)<20:
                 continue
             else :
@@ -129,9 +131,12 @@ def sub_group (score,group):  #group = A0,A1 --->Q2
         else:
             stu_mark +=1
             y_axis[stu_mark] +=1
+    print (group_score[277])
+    print (x_axis[:10])
+    print (y_axis[:10])
     return (x_axis,y_axis)
 ####Q2###
-group = "A1"
+group = "A0"
 x_axis, y_axis = sub_group(score,group)
 line_chart(x_axis, y_axis,"Scores","Number of Students",f"Phổ điểm của {group}")
 ######
